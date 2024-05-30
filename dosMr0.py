@@ -56,6 +56,8 @@ def main():
     packet_count = int(input("Enter the number of packets to send per thread: "))
     thread_count = int(input("Enter the number of threads to use: "))
 
+    target_port = int(input("Enter the target port (e.g., 80): "))  # Added this line to get target port
+
     threads = []
 
     for _ in range(thread_count):
